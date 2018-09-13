@@ -11,4 +11,4 @@ https://www.slideshare.net/kenichinagaoka3/serverless-architectures-112608331<br
   
 2. 任意のファイルをアップロード
 
-3. 2の操作で
+3. 2の操作で「cloud functions/index.js」が起動しそこからSendMail.gasがコールされる（メール通知される）
